@@ -1,0 +1,3 @@
+D:/code/clion/C++/CppSimpLogger/cmake-build-debug/CMakeFiles/CppSimpLogger.dir
+D:/code/clion/C++/CppSimpLogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/clion/C++/CppSimpLogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
